@@ -1,0 +1,25 @@
+{
+  "name": "RapBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "RapBot.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "telebot": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soutothales/RapBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soutothales/RapBot/issues"
+  },
+  "homepage": "https://github.com/soutothales/RapBot#readme"
+}
